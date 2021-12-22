@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616020411 source:/home/acer/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/repositorios.c
+	<stdio.h>
+	<stdlib.h>
+	"repositorios.h"
+
+1616019848 /home/acer/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/repositorios.h
+
+1616020211 source:/home/acer/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"repositorios.h"
+
+1630257967 source:/home/samsung/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"repositorios.h"
+
+1630257675 /home/samsung/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/repositorios.h
+
+1630257890 source:/home/samsung/Arquivos_CodeBlocks/Prova_2_ED_mod2_MARLON-DUARTE_493408/repositorios.c
+	<stdio.h>
+	<stdlib.h>
+	"repositorios.h"
+

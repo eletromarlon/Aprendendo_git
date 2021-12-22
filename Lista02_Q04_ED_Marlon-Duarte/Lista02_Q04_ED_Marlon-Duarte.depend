@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610409093 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q04_ED_Marlon-Duarte/main.c
+	<stdio.h>
+	<stdlib.h>
+	"CalculaCirculo.h"
+
+1610409052 /home/acer/Arquivos_CodeBlocks/Lista02_Q04_ED_Marlon-Duarte/CalculaCirculo.h
+
+1610409313 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q04_ED_Marlon-Duarte/CalculaCirculo.c
+	"CalculaCirculo.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1613075039 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lcde.h"
+
+1613074811 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/lcde.h
+	<stdio.h>
+	<stdlib.h>
+
+1613074890 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/lcde.c
+	<stdio.h>
+	<stdlib.h>
+	"lcde.h"
+

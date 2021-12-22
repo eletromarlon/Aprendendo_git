@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1612978858 source:/home/acer/Arquivos_CodeBlocks/Atv01_mod2_ED_ListaEncadeada/ListaEncadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1612978282 /home/acer/Arquivos_CodeBlocks/Atv01_mod2_ED_ListaEncadeada/ListaEncadeada.h
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+
+1612788988 /home/acer/Arquivos_CodeBlocks/Atv01_mod2_ED_ListaEncadeada/No.h
+
+1612978585 source:/home/acer/Arquivos_CodeBlocks/Atv01_mod2_ED_ListaEncadeada/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1612788990 source:/home/acer/Arquivos_CodeBlocks/Atv01_mod2_ED_ListaEncadeada/No.c
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+

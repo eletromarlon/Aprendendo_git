@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611861990 source:/home/acer/Arquivos_CodeBlocks/AprendendoStructTAD/cabecalho.c
+	"cabecalho.h"
+
+1611939381 source:/home/acer/Arquivos_CodeBlocks/AprendendoStructTAD/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+
+1611939443 /home/acer/Arquivos_CodeBlocks/AprendendoStructTAD/cabecalho.h
+	<stdio.h>
+	<stdlib.h>
+

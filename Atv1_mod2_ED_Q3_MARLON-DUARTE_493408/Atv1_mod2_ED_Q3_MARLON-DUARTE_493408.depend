@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1613135786 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_ED_Q3_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"l_e_o.h"
+
+1613135119 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_ED_Q3_MARLON-DUARTE_493408/l_e_o.h
+	<stdio.h>
+	<stdlib.h>
+
+1613135960 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_ED_Q3_MARLON-DUARTE_493408/l_e_o.c
+	<stdio.h>
+	<stdlib.h>
+	"l_e_o.h"
+

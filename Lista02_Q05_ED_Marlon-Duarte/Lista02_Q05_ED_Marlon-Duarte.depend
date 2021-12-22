@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610413025 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q05_ED_Marlon-Duarte/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610412989 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q05_ED_Marlon-Duarte/calculaCubo.c
+	<stdio.h>
+	"calculaCubo.h"
+
+1610412991 /home/acer/Arquivos_CodeBlocks/Lista02_Q05_ED_Marlon-Duarte/calculaCubo.h
+

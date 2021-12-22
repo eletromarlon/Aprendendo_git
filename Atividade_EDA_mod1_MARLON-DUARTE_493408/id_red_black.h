@@ -1,0 +1,30 @@
+#ifndef ID_RED_BLACK_H_INCLUDED
+#define ID_RED_BLACK_H_INCLUDED
+#include<stdio.h>
+#include<stdlib.h>
+
+typedef enum {vermelho, preto} Tcor;
+
+typedef struct no{
+	int elemento;
+	int cor;
+
+	struct no* esq;
+	struct no* dir;
+
+}Tno;
+
+Tno* rotacao_simples_esquerda(Tno *a);
+Tno* rotacao_simples_direita(Tno *a);
+
+Tno* criar(int elemento);
+Tno* incluir_no(Tno* a, Tno* dado);
+Tno* inserir(Tno* a, int valor);
+
+int cor(Tno* a);
+void trocaCor(Tno* a);
+
+void imprime(Tno* a);
+
+
+#endif // ID_RED_BLACK_H_INCLUDED

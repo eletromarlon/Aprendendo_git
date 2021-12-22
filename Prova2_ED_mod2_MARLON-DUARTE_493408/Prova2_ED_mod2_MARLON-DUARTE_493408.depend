@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615978995 source:/home/acer/Arquivos_CodeBlocks/Prova2_ED_mod2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ABB.h"
+
+1615932949 source:/home/acer/Arquivos_CodeBlocks/Prova2_ED_mod2_MARLON-DUARTE_493408/ABB.c
+	"ABB.h"
+
+1615940298 /home/acer/Arquivos_CodeBlocks/Prova2_ED_mod2_MARLON-DUARTE_493408/ABB.h
+	<stdio.h>
+	<stdlib.h>
+

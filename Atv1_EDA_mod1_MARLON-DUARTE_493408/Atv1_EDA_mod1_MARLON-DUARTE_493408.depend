@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1625686900 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/cartao.c
+	"cartao.h"
+
+1625686896 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/cartao.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendas.h"
+
+1625687001 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/vendas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"lista.h"
+	"cartao.h"
+
+1625686897 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625686898 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"itens.h"
+
+1625686898 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/itens.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625686902 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/cliente.c
+	"cliente.h"
+
+1625686903 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/itens.c
+	"itens.h"
+
+1625686900 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/login.c
+	"login.h"
+
+1625686914 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"menu.h"
+
+1625686915 /home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"itens.h"
+	"lista.h"
+	"vendas.h"
+
+1625687075 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/lista.c
+	"lista.h"
+
+1625686901 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/menu.c
+	"menu.h"
+
+1625686904 source:/home/acer/Arquivos_CodeBlocks/Atv1_EDA_mod1_MARLON-DUARTE_493408/vendas.c
+	"vendas.h"
+

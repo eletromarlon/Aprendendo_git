@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1627516765 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_atendimento.h"
+	"caixas.h"
+	"fila_pref.h"
+
+1626990088 /home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/menu_inicial.h
+	<stdio.h>
+	"gerador_senha.h"
+
+1627331249 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/menu_inicial.c
+	"menu_inicial.h"
+
+1626875640 /home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/gerador_senha.h
+	<stdio.h>
+	<stdlib.h>
+
+1627518774 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/gerador_senha.c
+	"gerador_senha.h"
+
+1627516765 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/caixas.c
+	"caixas.h"
+
+1627516765 /home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/caixas.h
+	<stdio.h>
+	<stdlib.h>
+
+1627515292 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/fila_pref.c
+	"fila_pref.h"
+
+1627514374 /home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/fila_pref.h
+	<stdio.h>
+	<stdlib.h>
+
+1627329733 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/seletor_senhas.c
+
+1627331765 /home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/menu_atendimento.h
+	<stdio.h>
+	"gerador_senha.h"
+
+1627493429 source:/home/samsung/Arquivos_CodeBlocks/Atv2_mod2_EDA_MARLON-DUARTE_493408/menu_atendimento.c
+	"menu_atendimento.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1612984724 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/No.c
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+
+1599832884 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/No.h
+
+1612984923 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircular.h"
+
+1612984875 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/ListaCircular.h
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+
+1612984875 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/ListaCircular.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircular.h"
+
+1613045575 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/lista_duplamente_encadeada_circular.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_duplamente_encadeada_circular.h"
+
+1613045595 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_ED_MARLON-DUARTE_493408/lista_duplamente_encadeada_circular.h
+	<stdio.h>
+	<stdlib.h>
+

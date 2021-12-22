@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1611432157 source:/home/acer/Arquivos_CodeBlocks/Atv3_Qs5_ED_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha5.h"
+
+1611273780 /home/acer/Arquivos_CodeBlocks/Atv3_Qs5_ED_MARLON-DUARTE_493408/pilha.h
+	<stdlib.h>
+
+1611261145 source:/home/acer/Arquivos_CodeBlocks/Atv3_Qs5_ED_MARLON-DUARTE_493408/pilha.c
+	"pilha.h"
+
+1611449100 source:/home/acer/Arquivos_CodeBlocks/Atv3_Qs5_ED_MARLON-DUARTE_493408/pilha5.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha5.h"
+
+1611432379 /home/acer/Arquivos_CodeBlocks/Atv3_Qs5_ED_MARLON-DUARTE_493408/pilha5.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1613075039 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lcde.h"
+
+1613074811 /home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/lcde.h
+	<stdio.h>
+	<stdlib.h>
+
+1613074890 source:/home/acer/Arquivos_CodeBlocks/Atv1_mod2_Q2_MARLON-DUARTE_493408/lcde.c
+	<stdio.h>
+	<stdlib.h>
+	"lcde.h"
+
+1616006834 source:/home/acer/Arquivos_CodeBlocks/Prova2_ED_Q2_mod2_MARLON-DUARTE_493408/lcde.c
+	<stdio.h>
+	<stdlib.h>
+	"lcde.h"
+
+1616004601 /home/acer/Arquivos_CodeBlocks/Prova2_ED_Q2_mod2_MARLON-DUARTE_493408/lcde.h
+	<stdio.h>
+	<stdlib.h>
+
+1616015965 source:/home/acer/Arquivos_CodeBlocks/Prova2_ED_Q2_mod2_MARLON-DUARTE_493408/fila_atendimento.c
+	"fila_atendimento.h"
+
+1616015107 /home/acer/Arquivos_CodeBlocks/Prova2_ED_Q2_mod2_MARLON-DUARTE_493408/fila_atendimento.h
+	"lcde.h"
+
+1616013866 source:/home/acer/Arquivos_CodeBlocks/Prova2_ED_Q2_mod2_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_atendimento.h"
+

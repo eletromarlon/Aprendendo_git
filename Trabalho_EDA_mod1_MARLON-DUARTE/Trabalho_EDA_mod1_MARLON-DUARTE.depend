@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1625668454 source:/home/acer/Arquivos_CodeBlocks/Trabalho_EDA_mod1_MARLON-DUARTE/cadastro_cliente.c
+	<stdlib.h>
+	"cadastro_cliente.h"
+
+1625668436 /home/acer/Arquivos_CodeBlocks/Trabalho_EDA_mod1_MARLON-DUARTE/cadastro_cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625678565 source:/home/acer/Arquivos_CodeBlocks/Trabalho_EDA_mod1_MARLON-DUARTE/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cadastro_cliente.h"
+
+1625679060 source:/home/acer/Arquivos_CodeBlocks/Trabalho_EDA_mod1_MARLON-DUARTE/red_black.c
+	"red_black.h"
+
+1625678614 /home/acer/Arquivos_CodeBlocks/Trabalho_EDA_mod1_MARLON-DUARTE/red_black.h
+	<stdio.h>
+	<stdlib.h>
+

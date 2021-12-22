@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610454185 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q03_ED_Marlon-Duarte/numcomplex.c
+	<stdio.h>
+	"numcomplex.h"
+
+1610453709 /home/acer/Arquivos_CodeBlocks/Lista02_Q03_ED_Marlon-Duarte/numcomplex.h
+
+1610453895 source:/home/acer/Arquivos_CodeBlocks/Lista02_Q03_ED_Marlon-Duarte/main.c
+	<stdio.h>
+	<stdlib.h>
+	"numcomplex.h"
+

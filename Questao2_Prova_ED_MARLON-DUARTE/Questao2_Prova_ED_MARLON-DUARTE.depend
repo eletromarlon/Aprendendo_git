@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615912548 source:/home/acer/Arquivos_CodeBlocks/Questao2_Prova_ED_MARLON-DUARTE/main.c
+	<stdio.h>
+	<stdlib.h>
+	"sis_validacao.h"
+
+1615912605 source:/home/acer/Arquivos_CodeBlocks/Questao2_Prova_ED_MARLON-DUARTE/sis_validacao.c
+	"sis_validacao.h"
+
+1615912122 /home/acer/Arquivos_CodeBlocks/Questao2_Prova_ED_MARLON-DUARTE/sis_validacao.h
+	<stdio.h>
+	<stdlib.h>
+

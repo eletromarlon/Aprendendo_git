@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612216828 source:/home/acer/Arquivos_CodeBlocks/Atv3_ED_Q8-9-10_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1612218092 /home/acer/Arquivos_CodeBlocks/Atv3_ED_Q8-9-10_MARLON-DUARTE_493408/fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1612218117 source:/home/acer/Arquivos_CodeBlocks/Atv3_ED_Q8-9-10_MARLON-DUARTE_493408/fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

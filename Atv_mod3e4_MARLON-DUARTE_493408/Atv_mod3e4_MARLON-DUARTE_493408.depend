@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1630621853 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/grafo_comunidades.c
+	"grafo_comunidades.h"
+
+1630625338 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/tabela_hash.c
+	"tabela_hash.h"
+
+1630621853 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/gerador_ID.c
+	"gerador_ID.h"
+
+1630434779 /home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/gerador_ID.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1630631589 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_entrada.h"
+
+1630632915 /home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/menu_entrada.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gerador_ID.h"
+	"tabela_hash.h"
+
+1630633628 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/menu_entrada.c
+	"menu_entrada.h"
+	"grafo_comunidades.h"
+
+1630632409 source:/home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/repositorio.c
+	<stdio.h>
+	<stdlib.h>
+	"repositorio.h"
+
+1630621853 /home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/repositorio.h
+
+1630606426 /home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/tabela_hash.h
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+
+1630415835 /home/samsung/Arquivos_CodeBlocks/Atv_mod3e4_MARLON-DUARTE_493408/grafo_comunidades.h
+	<stdio.h>
+	<stdlib.h>
+

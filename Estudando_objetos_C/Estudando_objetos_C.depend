@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614186416 source:/home/acer/Arquivos_CodeBlocks/Estudando_objetos_C/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeca.h"
+
+1614186391 /home/acer/Arquivos_CodeBlocks/Estudando_objetos_C/cabeca.h
+	<stdio.h>
+	<stdlib.h>
+
+1614185955 source:/home/acer/Arquivos_CodeBlocks/Estudando_objetos_C/cabeca.c
+	"cabeca.h"
+

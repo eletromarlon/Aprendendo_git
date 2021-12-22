@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1614460928 source:/home/acer/Arquivos_CodeBlocks/Atv2_mod2_ED_MARLON-DUARTE_493408/tree_bin.c
+	"tree_bin.h"
+
+1614460909 /home/acer/Arquivos_CodeBlocks/Atv2_mod2_ED_MARLON-DUARTE_493408/tree_bin.h
+	<stdio.h>
+	<stdlib.h>
+
+1614555574 source:/home/acer/Arquivos_CodeBlocks/Atv2_mod2_ED_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree_bin.h"
+
+1615918504 source:/home/acer/Arquivos_CodeBlocks/Pro2_mod2_ED_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree_bin.h"
+
+1615917612 /home/acer/Arquivos_CodeBlocks/Pro2_mod2_ED_MARLON-DUARTE_493408/tree_bin.h
+	<stdio.h>
+	<stdlib.h>
+
+1615918504 source:/home/acer/Arquivos_CodeBlocks/Pro2_mod2_ED_MARLON-DUARTE_493408/tree_bin.c
+	"tree_bin.h"
+

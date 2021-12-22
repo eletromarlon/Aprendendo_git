@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612788326 source:/home/acer/Arquivos_CodeBlocks/Lista_Ordenada/ListaEstaticaOrdenada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEstaticaOrdenada.h"
+
+1612788324 /home/acer/Arquivos_CodeBlocks/Lista_Ordenada/ListaEstaticaOrdenada.h
+
+1612788328 source:/home/acer/Arquivos_CodeBlocks/Lista_Ordenada/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEstaticaOrdenada.h"
+

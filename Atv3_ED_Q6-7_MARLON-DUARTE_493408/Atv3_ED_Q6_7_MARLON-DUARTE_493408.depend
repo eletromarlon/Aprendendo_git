@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611861990 source:/home/acer/Arquivos_CodeBlocks/Atv3_ED_Q6-7_MARLON-DUARTE_493408/cabecalho.c
+	"cabecalho.h"
+
+1611939443 /home/acer/Arquivos_CodeBlocks/Atv3_ED_Q6-7_MARLON-DUARTE_493408/cabecalho.h
+	<stdio.h>
+	<stdlib.h>
+
+1612215044 source:/home/acer/Arquivos_CodeBlocks/Atv3_ED_Q6-7_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+

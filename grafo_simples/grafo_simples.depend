@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1630414820 source:/home/samsung/Arquivos_CodeBlocks/grafo_simples/grapho.c
+	"grapho.h"
+	<stdio.h>
+	<stdlib.h>
+
+1630414820 /home/samsung/Arquivos_CodeBlocks/grafo_simples/grapho.h
+	<inttypes.h>
+	<stdbool.h>
+
+1630415222 source:/home/samsung/Arquivos_CodeBlocks/grafo_simples/main.c
+	<stdio.h>
+	<stdlib.h>
+

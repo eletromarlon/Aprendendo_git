@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612200815 source:/home/acer/Arquivos_CodeBlocks/Prova_Q6_MARLON-DUARTE_493408/main.c
+	<stdio.h>
+	<stdlib.h>
+	"esfera.h"
+
+1612200781 source:/home/acer/Arquivos_CodeBlocks/Prova_Q6_MARLON-DUARTE_493408/esfera.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"esfera.h"
+
+1612200753 /home/acer/Arquivos_CodeBlocks/Prova_Q6_MARLON-DUARTE_493408/esfera.h
+
